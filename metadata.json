@@ -1,0 +1,6 @@
+{
+  "name": "YT-Downloader",
+  "description": "High-performance media and batch video/audio downloader powered by yt-dlp extraction patterns with concurrent queue management, format selection, and CLI command studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
